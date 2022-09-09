@@ -28,7 +28,8 @@ VALUES
 	('Bad', 1987),
 	('In the Wee Small Hours', 1955),
 	('After Hours', 1992),
-	('S&M2', 2019);
+	('S&M2', 2019),
+	('SuperAlbum2020', 2020);
 
 INSERT INTO tracks(track_title, album_id, duretion)
 VALUES	
@@ -79,7 +80,8 @@ VALUES
 	(7, 1),
 	(2, 3),
 	(2, 4),
-	(2, 10);
+	(2, 10),
+	(3, 11);
 	
 INSERT INTO collection(collection_title, year_release)
 VALUES
